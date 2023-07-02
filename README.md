@@ -8,6 +8,7 @@ https://medium.com/@haticezkmnl/zany-antivirus-2a0b2fdf1562
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hatice-zehra-kamanl%C4%B1-653683202/)
 [![Github](https://img.shields.io/badge/github-1DA1F2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Zehrakmnl)
+[![Medium](https://img.shields.io/badge/Medium-1DA1F2?style=for-the-badge&logo=Medium&logoColor=white)]([https://github.com/Zehrakmnl](https://medium.com/@haticezkmnl))
 
 
 
