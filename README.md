@@ -19,7 +19,7 @@ To run app, run the following command
 ```bash
   pip install python3
 ```
-Run the following command to download other libraries
+download other libraries
 
 ```bash
   pip install [LIBRARY_NAME]
