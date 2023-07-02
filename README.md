@@ -14,10 +14,11 @@ https://medium.com/@haticezkmnl/zany-antivirus-2a0b2fdf1562
 
 ## Running Tests
 
-To run tests, run the following command
+To run app, run the following command
 
 ```bash
-  npm run test
+  pip install python3
+  
 ```
 
 
